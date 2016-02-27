@@ -1,0 +1,34 @@
+_repo: Mein-Leben-und-Streben_2779
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - Linden, E. von
+    - May, Karl Friedrich
+    - May, Carl
+    - Hohenthal, Karl
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia: http://en.wikipedia.org/wiki/Karl_May
+description: '#2780 is the copyrighted English translation of #2779, expressly
+
+  made for Project Gutenberg.'
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2779'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcc 'PT'
+- !lcc 'CT'
+- !lcsh 'May, Karl Friedrich, 1842-1912'
+- !lcsh 'Authors, German -- 19th century -- Biography'
+title: Mein Leben und Streben
+url: http://www.gutenberg.org/ebooks/2779
