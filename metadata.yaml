@@ -1,5 +1,8 @@
 _repo: Mein-Leben-und-Streben_2779
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: May, Karl
@@ -16,6 +19,8 @@ creator:
 description: '#2780 is the copyrighted English translation of #2779, expressly
 
   made for Project Gutenberg.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2779#Mein-Leben-und-Streben
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2001-08-01'
 gutenberg_type: Text
