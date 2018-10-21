@@ -1,5 +1,5 @@
 _repo: Mein-Leben-und-Streben_2779
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,5 +36,6 @@ subjects:
 - !lcc 'CT'
 - !lcsh 'May, Karl Friedrich, 1842-1912'
 - !lcsh 'Authors, German -- 19th century -- Biography'
+- GITenberg
 title: Mein Leben und Streben
 url: http://www.gutenberg.org/ebooks/2779
